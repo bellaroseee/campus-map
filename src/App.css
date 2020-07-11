@@ -1,0 +1,9 @@
+body {
+    font-family: Calibri;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
