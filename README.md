@@ -2,6 +2,8 @@
 Finding the shortest path between two buidings in the University of Washington Seattle Campus using Dijkstra's Algorithm
 
 ## Path Finder Java Program
+Link to documentation [here](https://github.com/bellaroseee/SDI-hw-pathfinder/tree/master)
+  
 ### Data Structure
 | Program Files | |
 | --- | --- |
@@ -21,6 +23,7 @@ Finding the shortest path between two buidings in the University of Washington S
 | [CampusMap](https://github.com/bellaroseee/SDI-hw-pathfinder/blob/master/src/main/java/pathfinder/CampusMap.java) | implements the ModelAPI and interacts directly with the Spark Server |
   
 ## Java Spark Server
+Link to documentation [here](https://github.com/bellaroseee/SDI-hw-campuspaths-server/tree/master)
 a simple server built with [Java Spark Framework](http://sparkjava.com/).
   
 accepts 3 kinds of GET requests and send response back in JSON.
