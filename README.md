@@ -24,6 +24,7 @@ Link to documentation [here](https://github.com/bellaroseee/SDI-hw-pathfinder/tr
   
 ## Java Spark Server
 Link to documentation [here](https://github.com/bellaroseee/SDI-hw-campuspaths-server/tree/master)
+  
 a simple server built with [Java Spark Framework](http://sparkjava.com/).
   
 accepts 3 kinds of GET requests and send response back in JSON.
